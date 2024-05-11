@@ -35,6 +35,10 @@ After a delay of 4 seconds, stop the video stream using ep_camera.stop_video_str
 ## 5. Close the Connection:
 Terminate the connection to the robot using ep_robot.close().
 
+
+
+
+
 ## Program
 ```python
 from robomaster import robot
